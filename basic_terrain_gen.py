@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-perlin = cv2.imread('perlin.png', cv2.IMREAD_GRAYSCALE)
+perlin = cv2.imread('continental.png', cv2.IMREAD_GRAYSCALE)
 
 #result = perlin.copy()
 #cv2.imshow('result', result)
